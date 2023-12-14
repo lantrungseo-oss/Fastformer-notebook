@@ -19,3 +19,12 @@ Pytorch version: 1.6.0 (may be compatible with higher/lower versions)
   year={2021}
 }
 ```
+
+# Installation
+
+```
+python3 -m venv _venv_
+source _venv_/bin/activate
+```
+
+Select the newly created virtual env as notebook kernel
